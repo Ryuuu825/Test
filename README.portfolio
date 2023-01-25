@@ -1,22 +1,15 @@
 # Test
-
+<h1 class="text-2xl font-bold">Test</h1>
 ## This is a test
+<h2>Test</h2>
 
+<p>
 I am thinking how to mark the image is for the 
 slide show. I am thinking to use the following
 syntax:
+</p>
 
-    ![slide](image.jpg, "This is a slide";image2.jpg, "This is another slide")
 
-And the javascript will parse the image and the
-caption. The caption will be used as the title of
-the slide show.
-
-## This is another dummy text
-
-lorem ipsum dolor sit amet
-
-### This is the third dummy text
 
 Why I create this ? Because I want my portfolio website get the content from 
 this file and to generate the content like wordpress does. 
