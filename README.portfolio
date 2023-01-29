@@ -1,6 +1,4 @@
-# Test
-<h1 class="text-2xl font-bold">Test</h1>
-## This is a test
+<h1 class="text-3xl font-bold">Test</h1>
 <h2>Test</h2>
 
 <p>
@@ -8,8 +6,6 @@ I am thinking how to mark the image is for the
 slide show. I am thinking to use the following
 syntax:
 </p>
-
-
 
 Why I create this ? Because I want my portfolio website get the content from 
 this file and to generate the content like wordpress does. 
