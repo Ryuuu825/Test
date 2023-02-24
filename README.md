@@ -1,11 +1,11 @@
-# Test
+# Template for SvelteKit with TailwindCSS and Github Pages
 
 ```bash
-npm init svelte@latest {app-name}
-cd {app-name}
+npm init svelte@latest $appname
+cd $appname
 npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init tailwind.config.cjs -p
-npm install svelte
+npm install @sveltejs/adapter-static
 ```
 
 tailwind.config.cjs
